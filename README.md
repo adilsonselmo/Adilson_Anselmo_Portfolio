@@ -8,3 +8,4 @@ Meu Portfolio Data Analyst
 * Análise Exploratória
 * Data Visualization
 * Análise Estatística
+[](https://github.com/adilsonselmo/Adilson_Anselmo_Portfolio/blob/main/images/hist_success_mission_from_1957.jpg)
